@@ -1,4 +1,4 @@
-## Hello, I'm Marcos nice to meet you! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gifwidth="30">
+## Hello, I'm Marcos nice to meet you! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gifwidth="30">
 
 - 🔭 I’m currently studying Fullstack Software Development at FIAP, in São Paulo.
 - 🌱 I’m currently learning Python
