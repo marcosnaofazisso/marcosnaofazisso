@@ -16,4 +16,6 @@
 ##Bugs shaw not pass! 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif width="30">
 
-![Snake animation](https://github.com/marcosnaofazisso/marcosnaofazisso/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/marcosnaofazisso/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+
