@@ -16,7 +16,7 @@
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 
-### Bugs shall not pass!
+#### Bugs shall not pass!
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif width="60">
 
-### Thanks for visiting!!
+Thanks for visiting!!
