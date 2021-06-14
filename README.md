@@ -5,11 +5,10 @@
 - 📫 How to reach me: marcosferreiraf22@gmail.com
 
 ## About Me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosvmferreira/)](https://www.linkedin.com/in/marcosvmferreira/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosvmferreira/)](https://www.linkedin.com/in/marcosvmferreira/)]
 
 ## Languages and Tools
-<div>![Marcosnaofazisso's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosnaofazisso&show_icons=true&theme=onedark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosnaofazisso&layout=compact&theme=onedark)
-</div>
+![Marcosnaofazisso's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosnaofazisso&show_icons=true&theme=onedark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosnaofazisso&layout=compact&theme=onedark)
 
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
