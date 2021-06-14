@@ -21,6 +21,7 @@
 
 ### Thanks for visiting!!
 
-### Bugs shaw not pass!<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif width="60">
+### Bugs shall not pass!
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif width="80">
 
 ![Snake animation](https://github.com/marcosnaofazisso/rafaballerini/blob/output/github-contribution-grid-snake.svg)
