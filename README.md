@@ -1,16 +1,15 @@
 # Hello, I'm Marcos nice to meet you! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
 
-<div>
 - 🔭 I’m currently studying Fullstack Software Development at FIAP, in São Paulo.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: marcosferreiraf22@gmail.com
-</div>
 
 ## About Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosvmferreira/)](https://www.linkedin.com/in/marcosvmferreira/)
 
-## Languages and Tools
+<div>## Languages and Tools
 [![Marcosnaofazisso's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosnaofazisso&show_icons=true&theme=onedark))](https://github.com/marcosnaofazisso/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosnaofazisso&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
