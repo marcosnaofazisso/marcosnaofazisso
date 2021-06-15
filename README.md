@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosvmferreira/)](https://www.linkedin.com/in/marcosvmferreira/)
 
 ## Languages and Tools
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosnaofazisso&show_icons=true&theme=onedark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosnaofazisso&layout=compact&theme=onedark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosnaofazisso&show_icons=true&theme=onedark"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosnaofazisso&layout=compact&theme=onedark"/>
 
 <code><img height="20" width="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" width="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
