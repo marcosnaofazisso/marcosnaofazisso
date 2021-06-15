@@ -1,11 +1,11 @@
 ## Hello, I'm Marcos nice to meet you! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
 
-## About Me
+### About Me
 <a href = "mailto:marcosferreiraf22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcosvmferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Languages and Tools
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosnaofazisso&show_icons=true&theme=onedark"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosnaofazisso&layout=compact&theme=onedark"/>
+### Languages and Tools
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosnaofazisso&show_icons=true&theme=onedark"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosnaofazisso&layout=compact&theme=onedark"/>
 
 <div style="display: inline_block" widht="auto" height="auto">
   <img align="center" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
