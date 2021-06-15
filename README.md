@@ -1,4 +1,5 @@
-## Hello, I'm Marcos nice to meet you! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
+### Hello, I'm Marcos, nice to meet you!
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="25">
 
 ### About Me
 <a href = "mailto:marcosferreiraf22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
