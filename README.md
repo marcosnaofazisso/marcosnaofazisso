@@ -1,5 +1,9 @@
 ## Hello, I'm Marcos, nice to meet you! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="25">
 
+Graduated in Analysis and Systems Developmentat at FIAP on 2022. Full-Stack Developer at TOTVS since 2021, experienced with Java back-end, front-end legacy Angular framework, PL/SQL with relational databases, APIs Rest, making solutions for brazilian retail market. 
+
+Also with 4 years in Customer Experience, I got clear communication, empathy and I want to improve people's lives through technology.
+
 #### Contact me:
 <a href = "mailto:marcosferreiraf22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcosvmferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -17,6 +21,7 @@
   <img align="center" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" height="30" width="110" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" height="30" width="180" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <br>
   <img align="center" height="30" width="150" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   <img align="center" height="30" width="180" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
