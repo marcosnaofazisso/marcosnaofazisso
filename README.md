@@ -88,3 +88,6 @@ I want to improve people's lives through technology.
 <a href="https://open.spotify.com/user/21d7hiulu3wt2aumjte6phqci?si=6bcac437f260499e" target="_blank"><img src="https://memegenerator.net/img/instances/72470409.jpg" width="400"></a>
 
 Thanks for visiting!!
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=marcosnaofazisso&label=Profile%20views&color=0e75b6&style=flat" alt="marcosviniciusferreira" />
+</p>
