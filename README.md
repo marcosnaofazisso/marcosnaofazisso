@@ -1,7 +1,7 @@
 ## Hello, I'm Marcos, nice to meet you! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="25">
 
-Full-Stack Developer at TOTVS since 2021.
-Graduated in Analysis and Systems Developmentat at FIAP on 2022.
+Full-Stack Developer living in Brazil.
+Graduated in Analysis and Systems Developmentat at FIAP.
 
 I want to improve people's lives through technology.
 <br>
