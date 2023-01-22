@@ -85,7 +85,7 @@ I want to improve people's lives through technology.
 
 <br>
 
-<a href="https://open.spotify.com/user/21d7hiulu3wt2aumjte6phqci?si=6bcac437f260499e" target="_blank"><img src="https://memegenerator.net/img/instances/72470409.jpg" width="400"></a>
+<a href="https://open.spotify.com/user/21d7hiulu3wt2aumjte6phqci?si=6bcac437f260499e" target="_blank"><img src="https://www.meme-arsenal.com/memes/bbc3866e288f9258267d5d824188c413.jpg" width="800"></a>
 
 Thanks for visiting!!
 <p align="left">
