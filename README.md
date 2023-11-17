@@ -10,6 +10,9 @@ I want to improve people's lives through technology.
 <p align="left"><a href="mailto:marcosferreiraf22@gmail.com" target="blank">          <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="marcosviniciusferreira" height="30" width="40" /></a>            <a href="https://linkedin.com/in/marcosvmferreira" target="_blank">          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcosviniciusferreira" height="30" width="40" /></a>           <a href="https://instagram.com/marcosnaofazisso" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcosviniciusferreira" height="30" width="40" /></a>
 </p> 
 
+
+<p>Visit my website <a href="https://www.marcosviniciusferreira.com" target="_blank">here</a></p>
+
 ### Actually, I'm learning:
 <div style="display: inline_block" width="auto" height="auto">
  <p align="left"> 
