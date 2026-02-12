@@ -83,14 +83,19 @@ I want to improve people's lives through technology.
 </div>
 <br> 
 
-### Stats and Languages:
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosnaofazisso&show_icons=true&theme=onedark"/>    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosnaofazisso&layout=compact&theme=onedark"/>
-
 <br>
 
-<a href="https://open.spotify.com/user/21d7hiulu3wt2aumjte6phqci?si=6bcac437f260499e" target="_blank"><img src="https://www.meme-arsenal.com/memes/bbc3866e288f9258267d5d824188c413.jpg" width="800"></a>
+<a href="https://open.spotify.com/user/21d7hiulu3wt2aumjte6phqci" target="_blank">
+  <img src="https://www.meme-arsenal.com/memes/bbc3866e288f9258267d5d824188c413.jpg" width="800" alt="Spotify Profile" />
+</a>
+
+<br><br>
 
 Thanks for visiting!!
+
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=marcosnaofazisso&label=Profile%20views&color=0e75b6&style=flat" alt="marcosviniciusferreira" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=marcosnaofazisso&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="marcosnaofazisso" 
+  />
 </p>
